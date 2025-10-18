@@ -1,0 +1,15 @@
+{
+  "title": "Quest Hotel",
+  "about": "A project in Zamboanga City, Zamboanga Peninsula.",
+  "status": "proposed",
+  "type": "private",
+  "classification": "hotel",
+  "nature": "new",
+  "location_id": "676206b3abe8e",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[11],\"people_involved_ids\":[]}",
+  "entity_id": "dc25c2d9-1e2f-4e02-9060-94a1c6859cf8",
+  "created_at": "2025-10-18 11:23:33",
+  "updated_at": "2025-10-18 11:23:33",
+  "archived_at": null
+}

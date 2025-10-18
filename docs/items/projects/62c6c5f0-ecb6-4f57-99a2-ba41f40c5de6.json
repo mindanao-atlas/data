@@ -1,0 +1,15 @@
+{
+  "title": "St. Francis Doctors Hospital and Medical Center",
+  "about": "A project in Cagayan De Oro City, Misamis Oriental, Northern Mindanao.",
+  "status": "proposed",
+  "type": "private",
+  "classification": "medical",
+  "nature": "new",
+  "location_id": "676206b3abe9d",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[8],\"people_involved_ids\":[]}",
+  "entity_id": "62c6c5f0-ecb6-4f57-99a2-ba41f40c5de6",
+  "created_at": "2025-10-18 11:14:09",
+  "updated_at": "2025-10-18 11:14:09",
+  "archived_at": null
+}

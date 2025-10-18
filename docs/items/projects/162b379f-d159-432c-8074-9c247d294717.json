@@ -1,0 +1,15 @@
+{
+  "title": "Princeton Hotel",
+  "about": "A project in Pagadian City, Zamboanga Del Sur, Zamboanga Peninsula.",
+  "status": "under_construction",
+  "type": "private",
+  "classification": "hotel",
+  "nature": "new",
+  "location_id": "676206b3abe7f",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[8],\"people_involved_ids\":[]}",
+  "entity_id": "162b379f-d159-432c-8074-9c247d294717",
+  "created_at": "2025-10-18 11:21:32",
+  "updated_at": "2025-10-18 11:21:32",
+  "archived_at": null
+}

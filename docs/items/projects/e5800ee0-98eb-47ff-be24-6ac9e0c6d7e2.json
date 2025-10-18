@@ -1,0 +1,15 @@
+{
+  "title": "Durian Hotel Redevelopment",
+  "about": "A project in Davao City, Davao Region.",
+  "status": "under_construction",
+  "type": "private",
+  "classification": "hotel",
+  "nature": "redevelopment",
+  "location_id": "676206b3abf29",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[17,12,8],\"number_of_buildings\":3,\"people_involved_ids\":[]}",
+  "entity_id": "e5800ee0-98eb-47ff-be24-6ac9e0c6d7e2",
+  "created_at": "2025-10-18 11:23:39",
+  "updated_at": "2025-10-18 11:23:39",
+  "archived_at": null
+}

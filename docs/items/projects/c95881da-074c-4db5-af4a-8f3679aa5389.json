@@ -1,0 +1,15 @@
+{
+  "title": "Futura Bay GenSan",
+  "about": "A project in General Santos City, SOCCSKSARGEN.",
+  "status": "proposed",
+  "type": "private",
+  "classification": "residential",
+  "nature": "new",
+  "location_id": "676206b3abf89",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[9],\"number_of_buildings\":3,\"people_involved_ids\":[]}",
+  "entity_id": "c95881da-074c-4db5-af4a-8f3679aa5389",
+  "created_at": "2025-10-18 11:22:00",
+  "updated_at": "2025-10-18 11:22:00",
+  "archived_at": null
+}

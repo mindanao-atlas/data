@@ -1,0 +1,15 @@
+{
+  "title": "Anflo City",
+  "about": "A project in Panabo City, Davao Del Norte, Davao Region.",
+  "status": "proposed",
+  "type": "private",
+  "classification": "township",
+  "nature": "new",
+  "location_id": "676206b3abf69",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[],\"total_land_area\":88,\"land_area_unit\":\"hectares\",\"people_involved_ids\":[]}",
+  "entity_id": "c4ce651e-be1e-4f69-8542-93f364463bc2",
+  "created_at": "2025-10-18 11:17:10",
+  "updated_at": "2025-10-18 11:17:10",
+  "archived_at": null
+}

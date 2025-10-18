@@ -1,0 +1,15 @@
+{
+  "title": "KCC Mall of Iligan",
+  "about": "A project in Iligan City, Northern Mindanao.",
+  "status": "proposed",
+  "type": "private",
+  "classification": "commercial",
+  "nature": "new",
+  "location_id": "676206b3abecc",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[3,5],\"people_involved_ids\":[]}",
+  "entity_id": "2751cf28-b775-4e6d-bf9c-15437524678b",
+  "created_at": "2025-10-18 11:22:06",
+  "updated_at": "2025-10-18 11:22:06",
+  "archived_at": null
+}

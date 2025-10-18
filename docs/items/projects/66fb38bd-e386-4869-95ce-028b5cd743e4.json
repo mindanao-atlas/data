@@ -1,0 +1,15 @@
+{
+  "title": "Big 8 Corporate Hotel",
+  "about": "A project in Digos City, Davao Del Sur, Davao Region.",
+  "status": "proposed",
+  "type": "private",
+  "classification": "hotel",
+  "nature": "new",
+  "location_id": "676206b3abf39",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[8],\"people_involved_ids\":[]}",
+  "entity_id": "66fb38bd-e386-4869-95ce-028b5cd743e4",
+  "created_at": "2025-10-18 11:17:01",
+  "updated_at": "2025-10-18 11:17:01",
+  "archived_at": null
+}

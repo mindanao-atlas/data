@@ -1,0 +1,15 @@
+{
+  "title": "The Paragon Davao",
+  "about": "A project in Davao City, Davao Region.",
+  "status": "under_construction",
+  "type": "private",
+  "classification": "mixed_use",
+  "nature": "new",
+  "location_id": "676206b3abf29",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[19,26],\"number_of_buildings\":5,\"people_involved_ids\":[]}",
+  "entity_id": "1bb06e71-b875-44aa-833a-270872992a7d",
+  "created_at": "2025-10-18 11:16:19",
+  "updated_at": "2025-10-18 11:16:19",
+  "archived_at": null
+}

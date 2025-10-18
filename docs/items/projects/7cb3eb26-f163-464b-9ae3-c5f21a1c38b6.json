@@ -1,0 +1,15 @@
+{
+  "title": "Indian Dormitory",
+  "about": "A project in Davao City, Davao Region.",
+  "status": "under_construction",
+  "type": "private",
+  "classification": "residential",
+  "nature": "new",
+  "location_id": "676206b3abf29",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[14],\"number_of_buildings\":1,\"people_involved_ids\":[]}",
+  "entity_id": "7cb3eb26-f163-464b-9ae3-c5f21a1c38b6",
+  "created_at": "2025-10-18 11:15:12",
+  "updated_at": "2025-10-18 11:15:12",
+  "archived_at": null
+}

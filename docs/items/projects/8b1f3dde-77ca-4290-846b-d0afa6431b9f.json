@@ -1,0 +1,15 @@
+{
+  "title": "Geriatric Hotel",
+  "about": "A project in Cagayan De Oro City, Misamis Oriental, Northern Mindanao.",
+  "status": "proposed",
+  "type": "private",
+  "classification": "hotel",
+  "nature": "new",
+  "location_id": "676206b3abe9d",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[20],\"people_involved_ids\":[]}",
+  "entity_id": "8b1f3dde-77ca-4290-846b-d0afa6431b9f",
+  "created_at": "2025-10-18 11:16:31",
+  "updated_at": "2025-10-18 11:16:31",
+  "archived_at": null
+}

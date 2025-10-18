@@ -1,0 +1,15 @@
+{
+  "title": "Cala Davao",
+  "about": "A project in Davao City, Davao Region.",
+  "status": "proposed",
+  "type": "private",
+  "classification": "residential",
+  "nature": "new",
+  "location_id": "676206b3abf29",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[16],\"number_of_buildings\":2,\"people_involved_ids\":[]}",
+  "entity_id": "e4be02c5-1240-4c0c-b9cd-8fb0674c60af",
+  "created_at": "2025-10-18 11:23:42",
+  "updated_at": "2025-10-18 11:23:42",
+  "archived_at": null
+}

@@ -1,0 +1,15 @@
+{
+  "title": "The Grand Citywalk Davao",
+  "about": "A project in Davao City, Davao Region.",
+  "status": "proposed",
+  "type": "private",
+  "classification": "mixed_use",
+  "nature": "new",
+  "location_id": "676206b3abf29",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[],\"total_land_area\":22,\"land_area_unit\":\"hectares\",\"people_involved_ids\":[]}",
+  "entity_id": "2cbcc343-d13b-4f9a-be5f-bb7cbcf7083e",
+  "created_at": "2025-10-18 11:23:21",
+  "updated_at": "2025-10-18 11:23:21",
+  "archived_at": null
+}

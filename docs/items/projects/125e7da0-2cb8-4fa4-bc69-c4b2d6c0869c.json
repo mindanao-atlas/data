@@ -1,0 +1,15 @@
+{
+  "title": "BMW Motorrad",
+  "about": "A project in Davao City, Davao Region.",
+  "status": "proposed",
+  "type": "private",
+  "classification": "office",
+  "nature": "new",
+  "location_id": "676206b3abf29",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[10],\"people_involved_ids\":[]}",
+  "entity_id": "125e7da0-2cb8-4fa4-bc69-c4b2d6c0869c",
+  "created_at": "2025-10-18 11:19:35",
+  "updated_at": "2025-10-18 11:19:35",
+  "archived_at": null
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Casa Mira Towers",
+  "about": "A project in Cagayan De Oro City, Misamis Oriental, Northern Mindanao.",
+  "status": "under_construction",
+  "type": "private",
+  "classification": "residential",
+  "nature": "new",
+  "location_id": "676206b3abe9d",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[26,22],\"people_involved_ids\":[]}",
+  "entity_id": "6c26406b-7229-48ec-8fac-16c25f9ee95b",
+  "created_at": "2025-10-18 11:20:11",
+  "updated_at": "2025-10-18 11:20:11",
+  "archived_at": null
+}

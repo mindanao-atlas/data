@@ -1,0 +1,15 @@
+{
+  "title": "Primavera City",
+  "about": "A project in Cagayan De Oro City, Misamis Oriental, Northern Mindanao.",
+  "status": "under_construction",
+  "type": "private",
+  "classification": "mixed_use",
+  "nature": "new",
+  "location_id": "676206b3abe9d",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[35,10],\"number_of_buildings\":6,\"people_involved_ids\":[]}",
+  "entity_id": "a410f36d-6748-4987-91a3-5884b267ebba",
+  "created_at": "2025-10-18 11:13:33",
+  "updated_at": "2025-10-18 11:13:33",
+  "archived_at": null
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Paraiso Hill",
+  "about": "A project in Cagayan De Oro City, Misamis Oriental, Northern Mindanao.",
+  "status": "proposed",
+  "type": "private",
+  "classification": "mixed_use",
+  "nature": "new",
+  "location_id": "676206b3abe9d",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[],\"total_land_area\":39,\"land_area_unit\":\"hectares\",\"people_involved_ids\":[]}",
+  "entity_id": "a67e6869-e2a6-4c6b-8786-6eb4f21480fb",
+  "created_at": "2025-10-18 11:15:27",
+  "updated_at": "2025-10-18 11:15:27",
+  "archived_at": null
+}

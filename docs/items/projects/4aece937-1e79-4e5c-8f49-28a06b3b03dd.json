@@ -1,0 +1,15 @@
+{
+  "title": "World Palace Hotel",
+  "about": "A project in Davao City, Davao Region.",
+  "status": "under_construction",
+  "type": "private",
+  "classification": "hotel",
+  "nature": "new",
+  "location_id": "676206b3abf29",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[8],\"people_involved_ids\":[]}",
+  "entity_id": "4aece937-1e79-4e5c-8f49-28a06b3b03dd",
+  "created_at": "2025-10-18 11:18:40",
+  "updated_at": "2025-10-18 11:18:40",
+  "archived_at": null
+}

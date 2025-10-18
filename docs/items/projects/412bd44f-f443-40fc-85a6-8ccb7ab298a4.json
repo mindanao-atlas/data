@@ -1,0 +1,15 @@
+{
+  "title": "Dusit Princess Hotel",
+  "about": "A project in Davao City, Davao Region.",
+  "status": "proposed",
+  "type": "private",
+  "classification": "hotel",
+  "nature": "new",
+  "location_id": "676206b3abf29",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[],\"people_involved_ids\":[]}",
+  "entity_id": "412bd44f-f443-40fc-85a6-8ccb7ab298a4",
+  "created_at": "2025-10-18 11:15:30",
+  "updated_at": "2025-10-18 11:15:30",
+  "archived_at": null
+}

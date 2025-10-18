@@ -1,0 +1,15 @@
+{
+  "title": "Acacia Hotel Davao",
+  "about": "A project in Davao City, Davao Region.",
+  "status": "under_construction",
+  "type": "private",
+  "classification": "hotel",
+  "nature": "new",
+  "location_id": "676206b3abf29",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[11],\"people_involved_ids\":[]}",
+  "entity_id": "78baf9c0-6f44-4cb1-b74e-3ef45ba25cd5",
+  "created_at": "2025-10-18 11:18:07",
+  "updated_at": "2025-10-18 11:18:07",
+  "archived_at": null
+}

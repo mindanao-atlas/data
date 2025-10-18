@@ -1,0 +1,15 @@
+{
+  "title": "Hotel 101",
+  "about": "A project in Davao City, Davao Region.",
+  "status": "under_construction",
+  "type": "private",
+  "classification": "mixed_use",
+  "nature": "new",
+  "location_id": "676206b3abf29",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[13],\"number_of_buildings\":1,\"people_involved_ids\":[]}",
+  "entity_id": "da2d95f9-aa35-4066-ab64-227f5ec762d6",
+  "created_at": "2025-10-18 11:23:15",
+  "updated_at": "2025-10-18 11:23:15",
+  "archived_at": null
+}

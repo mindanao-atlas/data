@@ -1,0 +1,15 @@
+{
+  "title": "Mall of Alnor",
+  "about": "A project in Cotabato City, Maguindanao Del Norte, BARMM.",
+  "status": "proposed",
+  "type": "private",
+  "classification": "commercial",
+  "nature": "new",
+  "location_id": "676206b3ac031",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[3],\"people_involved_ids\":[]}",
+  "entity_id": "accfbd0b-024b-4b77-86fd-ffdc081facd6",
+  "created_at": "2025-10-18 11:18:59",
+  "updated_at": "2025-10-18 11:18:59",
+  "archived_at": null
+}

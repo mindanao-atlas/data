@@ -1,0 +1,15 @@
+{
+  "title": "Zambosur Coliseum",
+  "about": "A project in Pagadian City, Zamboanga Del Sur, Zamboanga Peninsula.",
+  "status": "structural_work",
+  "type": "public",
+  "classification": "recreational",
+  "nature": "new",
+  "location_id": "676206b3abe7f",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[],\"number_of_buildings\":1,\"people_involved_ids\":[]}",
+  "entity_id": "f1e5ceb1-221a-4795-8786-37c1b456b5dd",
+  "created_at": "2025-10-18 11:22:57",
+  "updated_at": "2025-10-18 11:22:57",
+  "archived_at": null
+}

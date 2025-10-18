@@ -1,0 +1,15 @@
+{
+  "title": "Intalio Flats Primea",
+  "about": "A project in Cagayan De Oro City, Misamis Oriental, Northern Mindanao.",
+  "status": "under_construction",
+  "type": "private",
+  "classification": "residential",
+  "nature": "new",
+  "location_id": "676206b3abe9d",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[12,17],\"number_of_buildings\":3,\"people_involved_ids\":[]}",
+  "entity_id": "55397589-7c6c-474f-93f3-e69f0bbba832",
+  "created_at": "2025-10-18 11:13:03",
+  "updated_at": "2025-10-18 11:13:03",
+  "archived_at": null
+}

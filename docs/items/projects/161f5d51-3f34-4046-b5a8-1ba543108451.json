@@ -1,0 +1,15 @@
+{
+  "title": "Ciudad Medical Center Expansion",
+  "about": "A project in Zamboanga City, Zamboanga Peninsula.",
+  "status": "proposed",
+  "type": "private",
+  "classification": "medical",
+  "nature": "expansion",
+  "location_id": "676206b3abe8e",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[8],\"people_involved_ids\":[]}",
+  "entity_id": "161f5d51-3f34-4046-b5a8-1ba543108451",
+  "created_at": "2025-10-18 11:23:27",
+  "updated_at": "2025-10-18 11:23:27",
+  "archived_at": null
+}

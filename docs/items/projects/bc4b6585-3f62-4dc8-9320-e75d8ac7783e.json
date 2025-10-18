@@ -1,0 +1,15 @@
+{
+  "title": "The New City",
+  "about": "A project in Cagayan De Oro City, Misamis Oriental, Northern Mindanao.",
+  "status": "planning",
+  "type": "private",
+  "classification": "mixed_use",
+  "nature": "new",
+  "location_id": "676206b3abe9d",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[],\"total_land_area\":60,\"land_area_unit\":\"hectares\",\"people_involved_ids\":[]}",
+  "entity_id": "bc4b6585-3f62-4dc8-9320-e75d8ac7783e",
+  "created_at": "2025-10-18 11:14:45",
+  "updated_at": "2025-10-18 11:14:45",
+  "archived_at": null
+}

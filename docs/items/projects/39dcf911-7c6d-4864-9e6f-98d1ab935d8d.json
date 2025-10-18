@@ -1,0 +1,15 @@
+{
+  "title": "Lyceum of the Philippines",
+  "about": "A project in Davao City, Davao Region.",
+  "status": "under_construction",
+  "type": "private",
+  "classification": "institutional",
+  "nature": "new",
+  "location_id": "676206b3abf29",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[],\"total_land_area\":16,\"land_area_unit\":\"hectares\",\"people_involved_ids\":[]}",
+  "entity_id": "39dcf911-7c6d-4864-9e6f-98d1ab935d8d",
+  "created_at": "2025-10-18 11:19:01",
+  "updated_at": "2025-10-18 11:19:01",
+  "archived_at": null
+}

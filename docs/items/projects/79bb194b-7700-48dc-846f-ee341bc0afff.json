@@ -1,0 +1,15 @@
+{
+  "title": "SM City Zamboanga",
+  "about": "A premier shopping center in Zamboanga City, SM City Zamboanga offers a wide range of shopping options and experiences for visitors.",
+  "status": "under_construction",
+  "type": "private",
+  "classification": "commercial",
+  "nature": "new",
+  "location_id": "676206b3abe8e",
+  "featured_image": "{\"credits\":{\"is_user\":false,\"owner_name\":\"SM Prime Holdings\"},\"alt\":\"Render of SM City Zamboanga\",\"caption\":\"Render of SM City Zamboanga\",\"created_at\":\"2025-10-18 06:53:02\",\"updated_at\":\"2025-10-18 06:53:02\",\"created_by\":{\"user_id\":\"c3637fe7-fd7d-49a1-9533-8d84012045e1\"},\"desktop\":{\"src\":\"https://i.imgur.com/vQCymDa.jpeg\",\"width\":960,\"height\":538},\"mobile\":{\"src\":\"https://i.imgur.com/vQCymDa.jpeg\",\"width\":960,\"height\":538}}",
+  "details": "{\"number_of_floors\":[5],\"number_of_buildings\":1,\"total_gross_floor_area\":65055,\"developer_name\":\"SM Prime Holdings\",\"people_involved_ids\":[]}",
+  "entity_id": "79bb194b-7700-48dc-846f-ee341bc0afff",
+  "created_at": "2025-10-18 11:14:39",
+  "updated_at": "2025-10-18 11:14:39",
+  "archived_at": null
+}

@@ -1,0 +1,15 @@
+{
+  "title": "People's Ville",
+  "about": "A project in Davao City, Davao Region.",
+  "status": "under_construction",
+  "type": "private",
+  "classification": "residential",
+  "nature": "new",
+  "location_id": "676206b3abf29",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[5],\"number_of_buildings\":82,\"people_involved_ids\":[]}",
+  "entity_id": "2d1ed0b6-63b5-443c-ae9a-e18942d7ce77",
+  "created_at": "2025-10-18 11:13:00",
+  "updated_at": "2025-10-18 11:13:00",
+  "archived_at": null
+}

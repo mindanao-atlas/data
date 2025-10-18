@@ -1,0 +1,15 @@
+{
+  "title": "Downtowne Premier Residences",
+  "about": "A project in Davao City, Davao Region.",
+  "status": "proposed",
+  "type": "private",
+  "classification": "residential",
+  "nature": "new",
+  "location_id": "676206b3abf29",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[28],\"number_of_buildings\":5,\"people_involved_ids\":[]}",
+  "entity_id": "ab605a36-1b6f-4c96-b586-e24fd613f6c0",
+  "created_at": "2025-10-18 11:22:54",
+  "updated_at": "2025-10-18 11:22:54",
+  "archived_at": null
+}

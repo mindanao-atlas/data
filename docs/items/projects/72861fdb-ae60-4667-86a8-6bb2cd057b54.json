@@ -1,0 +1,15 @@
+{
+  "title": "Sta.Lucia Mall",
+  "about": "A shopping mall project in Davao, Sta. Lucia Mall is bringing another wave of favorites and experience in the city of Davao",
+  "status": "under_construction",
+  "type": "private",
+  "classification": "commercial",
+  "nature": "new",
+  "location_id": "676206b3abf29",
+  "featured_image": "{\"credits\":{\"is_user\":false,\"owner_name\":\"Sta Lucia Mall Davao Facebook page\"},\"alt\":\"Render of Sta Lucia Mall, Davao City\",\"caption\":\"Render of Sta Lucia Mall, Davao City\",\"created_at\":\"2025-10-18 05:42:48\",\"updated_at\":\"2025-10-18 05:42:48\",\"created_by\":{\"user_id\":\"c3637fe7-fd7d-49a1-9533-8d84012045e1\"},\"desktop\":{\"src\":\"https://i.imgur.com/RKSM1gk.jpeg\",\"width\":1600,\"height\":625},\"mobile\":{\"src\":\"https://i.imgur.com/RKSM1gk.jpeg\",\"width\":1600,\"height\":625}}",
+  "details": "{\"number_of_floors\":[],\"is_first_in_mindanao\":true,\"is_first_what\":\"Sta.Lucia Mall\",\"developer_name\":\"Sta. Lucia Land Project Development Group\",\"people_involved_ids\":[]}",
+  "entity_id": "72861fdb-ae60-4667-86a8-6bb2cd057b54",
+  "created_at": "2025-10-18 11:12:57",
+  "updated_at": "2025-10-18 11:12:57",
+  "archived_at": null
+}

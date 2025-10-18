@@ -1,0 +1,15 @@
+{
+  "title": "Westwood Storeys",
+  "about": "A project in Cagayan De Oro City, Misamis Oriental, Northern Mindanao.",
+  "status": "under_construction",
+  "type": "private",
+  "classification": "residential",
+  "nature": "new",
+  "location_id": "676206b3abe9d",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[7],\"number_of_buildings\":7,\"people_involved_ids\":[]}",
+  "entity_id": "f3d90765-84f5-4a26-92ec-0914d9a05eca",
+  "created_at": "2025-10-18 11:14:18",
+  "updated_at": "2025-10-18 11:14:18",
+  "archived_at": null
+}

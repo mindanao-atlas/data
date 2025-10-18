@@ -1,0 +1,15 @@
+{
+  "title": "ZUR Hotel",
+  "about": "A project in Pagadian City, Zamboanga Del Sur, Zamboanga Peninsula.",
+  "status": "under_construction",
+  "type": "private",
+  "classification": "hotel",
+  "nature": "new",
+  "location_id": "676206b3abe7f",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[11],\"number_of_buildings\":1,\"people_involved_ids\":[]}",
+  "entity_id": "b31b9f92-4aa0-436f-bf37-465896b99937",
+  "created_at": "2025-10-18 11:20:08",
+  "updated_at": "2025-10-18 11:20:08",
+  "archived_at": null
+}

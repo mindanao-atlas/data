@@ -1,0 +1,15 @@
+{
+  "title": "FB Hotel Tower",
+  "about": "A project in Koronadal City, South Cotabato, SOCCSKSARGEN.",
+  "status": "proposed",
+  "type": "private",
+  "classification": "hotel",
+  "nature": "new",
+  "location_id": "676206b3abfaa",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[8],\"people_involved_ids\":[]}",
+  "entity_id": "20ce8e5e-a965-482b-91f3-62dd41fec183",
+  "created_at": "2025-10-18 11:20:02",
+  "updated_at": "2025-10-18 11:20:02",
+  "archived_at": null
+}

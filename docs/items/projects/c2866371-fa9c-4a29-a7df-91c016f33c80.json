@@ -1,0 +1,15 @@
+{
+  "title": "Manny Pacquiao Medical Center",
+  "about": "A project in General Santos City, SOCCSKSARGEN.",
+  "status": "proposed",
+  "type": "private",
+  "classification": "medical",
+  "nature": "new",
+  "location_id": "676206b3abf89",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[10],\"people_involved_ids\":[]}",
+  "entity_id": "c2866371-fa9c-4a29-a7df-91c016f33c80",
+  "created_at": "2025-10-18 11:17:37",
+  "updated_at": "2025-10-18 11:17:37",
+  "archived_at": null
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Manta Mall & Hotel Residence",
+  "about": "A project in Tagum City, Davao Del Norte, Davao Region.",
+  "status": "proposed",
+  "type": "private",
+  "classification": "residential",
+  "nature": "new",
+  "location_id": "676206b3abf78",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[14],\"number_of_buildings\":2,\"people_involved_ids\":[]}",
+  "entity_id": "a380bda7-a70c-4cb7-b237-d5852f0a19ff",
+  "created_at": "2025-10-18 11:18:16",
+  "updated_at": "2025-10-18 11:18:16",
+  "archived_at": null
+}

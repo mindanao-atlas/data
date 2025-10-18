@@ -1,0 +1,15 @@
+{
+  "title": "The Midtown Towers",
+  "about": "A project in Cagayan De Oro City, Misamis Oriental, Northern Mindanao.",
+  "status": "planning",
+  "type": "private",
+  "classification": "residential",
+  "nature": "new",
+  "location_id": "676206b3abe9d",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[12,8],\"number_of_buildings\":3,\"people_involved_ids\":[]}",
+  "entity_id": "b0decc55-81de-452f-9a46-fc9640f5628b",
+  "created_at": "2025-10-18 11:22:18",
+  "updated_at": "2025-10-18 11:22:18",
+  "archived_at": null
+}

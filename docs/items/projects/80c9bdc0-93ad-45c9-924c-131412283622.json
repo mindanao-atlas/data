@@ -1,0 +1,15 @@
+{
+  "title": "Pagatpat Valley Residences",
+  "about": "A project in Cagayan De Oro City, Misamis Oriental, Northern Mindanao.",
+  "status": "planning",
+  "type": "private",
+  "classification": "residential",
+  "nature": "new",
+  "location_id": "676206b3abe9d",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[5],\"number_of_buildings\":20,\"people_involved_ids\":[]}",
+  "entity_id": "80c9bdc0-93ad-45c9-924c-131412283622",
+  "created_at": "2025-10-18 11:13:42",
+  "updated_at": "2025-10-18 11:13:42",
+  "archived_at": null
+}

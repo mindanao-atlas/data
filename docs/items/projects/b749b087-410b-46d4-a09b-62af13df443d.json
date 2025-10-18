@@ -1,0 +1,15 @@
+{
+  "title": "The Terraces",
+  "about": "A project in Davao City, Davao Region.",
+  "status": "proposed",
+  "type": "private",
+  "classification": "residential",
+  "nature": "new",
+  "location_id": "676206b3abf29",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[15],\"number_of_buildings\":5,\"people_involved_ids\":[]}",
+  "entity_id": "b749b087-410b-46d4-a09b-62af13df443d",
+  "created_at": "2025-10-18 11:18:10",
+  "updated_at": "2025-10-18 11:18:10",
+  "archived_at": null
+}

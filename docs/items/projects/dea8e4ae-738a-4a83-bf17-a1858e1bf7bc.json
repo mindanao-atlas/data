@@ -1,0 +1,15 @@
+{
+  "title": "Southern Philippines Medical Center (SPMC) Expansion",
+  "about": "A project in Davao City, Davao Region.",
+  "status": "under_construction",
+  "type": "private",
+  "classification": "medical",
+  "nature": "expansion",
+  "location_id": "676206b3abf29",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[],\"people_involved_ids\":[]}",
+  "entity_id": "dea8e4ae-738a-4a83-bf17-a1858e1bf7bc",
+  "created_at": "2025-10-18 11:20:20",
+  "updated_at": "2025-10-18 11:20:20",
+  "archived_at": null
+}

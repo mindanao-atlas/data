@@ -1,0 +1,15 @@
+{
+  "title": "LPU Davao University Township",
+  "about": "A project in Davao City, Davao Region.",
+  "status": "proposed",
+  "type": "private",
+  "classification": "mixed_use",
+  "nature": "new",
+  "location_id": "676206b3abf29",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[],\"number_of_buildings\":1,\"total_land_area\":17,\"land_area_unit\":\"hectares\",\"people_involved_ids\":[]}",
+  "entity_id": "5f927195-9120-48a3-9b0e-51dd06f95f1b",
+  "created_at": "2025-10-18 11:17:25",
+  "updated_at": "2025-10-18 11:17:25",
+  "archived_at": null
+}

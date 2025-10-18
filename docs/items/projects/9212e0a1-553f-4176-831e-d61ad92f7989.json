@@ -1,0 +1,15 @@
+{
+  "title": "Vail Residences",
+  "about": "A project in Cagayan De Oro City, Misamis Oriental, Northern Mindanao.",
+  "status": "under_construction",
+  "type": "private",
+  "classification": "residential",
+  "nature": "new",
+  "location_id": "676206b3abe9d",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[4],\"number_of_buildings\":14,\"people_involved_ids\":[]}",
+  "entity_id": "9212e0a1-553f-4176-831e-d61ad92f7989",
+  "created_at": "2025-10-18 11:22:24",
+  "updated_at": "2025-10-18 11:22:24",
+  "archived_at": null
+}

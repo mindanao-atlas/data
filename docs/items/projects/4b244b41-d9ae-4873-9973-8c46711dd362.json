@@ -1,0 +1,15 @@
+{
+  "title": "ACE Medical Center",
+  "about": "A project in Butuan City, CARAGA.",
+  "status": "under_construction",
+  "type": "private",
+  "classification": "medical",
+  "nature": "new",
+  "location_id": "676206b3abfef",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[8],\"people_involved_ids\":[]}",
+  "entity_id": "4b244b41-d9ae-4873-9973-8c46711dd362",
+  "created_at": "2025-10-18 11:16:16",
+  "updated_at": "2025-10-18 11:16:16",
+  "archived_at": null
+}

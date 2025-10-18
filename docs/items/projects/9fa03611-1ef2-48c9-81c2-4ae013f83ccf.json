@@ -1,0 +1,15 @@
+{
+  "title": "Dream Residences",
+  "about": "A project in Zamboanga City, Zamboanga Peninsula.",
+  "status": "proposed",
+  "type": "private",
+  "classification": "residential",
+  "nature": "new",
+  "location_id": "676206b3abe8e",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[10],\"number_of_buildings\":17,\"people_involved_ids\":[]}",
+  "entity_id": "9fa03611-1ef2-48c9-81c2-4ae013f83ccf",
+  "created_at": "2025-10-18 11:13:30",
+  "updated_at": "2025-10-18 11:13:30",
+  "archived_at": null
+}

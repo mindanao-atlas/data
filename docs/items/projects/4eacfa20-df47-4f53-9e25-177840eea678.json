@@ -1,0 +1,15 @@
+{
+  "title": "Centro Spatial",
+  "about": "A project in Davao City, Davao Region.",
+  "status": "under_construction",
+  "type": "private",
+  "classification": "residential",
+  "nature": "new",
+  "location_id": "676206b3abf29",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[8],\"number_of_buildings\":5,\"people_involved_ids\":[]}",
+  "entity_id": "4eacfa20-df47-4f53-9e25-177840eea678",
+  "created_at": "2025-10-18 11:21:20",
+  "updated_at": "2025-10-18 11:21:20",
+  "archived_at": null
+}

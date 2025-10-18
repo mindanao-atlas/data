@@ -1,0 +1,15 @@
+{
+  "title": "The Avalon Heights",
+  "about": "A project in Davao City, Davao Region.",
+  "status": "proposed",
+  "type": "private",
+  "classification": "residential",
+  "nature": "new",
+  "location_id": "676206b3abf29",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[34],\"number_of_buildings\":2,\"people_involved_ids\":[]}",
+  "entity_id": "b6b4a4ba-d0f1-47c4-8aaa-66c727d79644",
+  "created_at": "2025-10-18 11:13:09",
+  "updated_at": "2025-10-18 11:13:09",
+  "archived_at": null
+}

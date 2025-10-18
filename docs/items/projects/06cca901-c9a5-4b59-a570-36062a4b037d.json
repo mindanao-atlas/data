@@ -1,0 +1,15 @@
+{
+  "title": "One Oasis",
+  "about": "A project in Cagayan De Oro City, Misamis Oriental, Northern Mindanao.",
+  "status": "under_construction",
+  "type": "private",
+  "classification": "residential",
+  "nature": "new",
+  "location_id": "676206b3abe9d",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[8,7],\"number_of_buildings\":5,\"people_involved_ids\":[]}",
+  "entity_id": "06cca901-c9a5-4b59-a570-36062a4b037d",
+  "created_at": "2025-10-18 11:13:45",
+  "updated_at": "2025-10-18 11:13:45",
+  "archived_at": null
+}

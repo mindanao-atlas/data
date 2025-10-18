@@ -1,0 +1,15 @@
+{
+  "title": "The Residences at Manresa Town",
+  "about": "A project in Cagayan De Oro City, Misamis Oriental, Northern Mindanao.",
+  "status": "planning",
+  "type": "private",
+  "classification": "residential",
+  "nature": "new",
+  "location_id": "676206b3abe9d",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[24,19,17],\"people_involved_ids\":[]}",
+  "entity_id": "d02e4f66-0317-4476-8f34-9ba1d91558a1",
+  "created_at": "2025-10-18 11:13:51",
+  "updated_at": "2025-10-18 11:13:51",
+  "archived_at": null
+}

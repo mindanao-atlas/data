@@ -1,0 +1,15 @@
+{
+  "title": "Marcian Garden Hotel Renovation",
+  "about": "A project in Zamboanga City, Zamboanga Peninsula.",
+  "status": "under_construction",
+  "type": "private",
+  "classification": "hotel",
+  "nature": "renovation",
+  "location_id": "676206b3abe8e",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[],\"people_involved_ids\":[]}",
+  "entity_id": "b3d08340-4a7a-44ff-b14a-856c18a0cc61",
+  "created_at": "2025-10-18 11:15:51",
+  "updated_at": "2025-10-18 11:15:51",
+  "archived_at": null
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Matina Enclaves",
+  "about": "A project in Davao City, Davao Region.",
+  "status": "under_construction",
+  "type": "private",
+  "classification": "residential",
+  "nature": "new",
+  "location_id": "676206b3abf29",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[12,10,8],\"number_of_buildings\":10,\"people_involved_ids\":[]}",
+  "entity_id": "0a597197-fda0-4cc0-a3c9-a0734f60a391",
+  "created_at": "2025-10-18 11:16:52",
+  "updated_at": "2025-10-18 11:16:52",
+  "archived_at": null
+}

@@ -1,0 +1,15 @@
+{
+  "title": "8 Spatial Davao",
+  "about": "A project in Davao City, Davao Region.",
+  "status": "under_construction",
+  "type": "private",
+  "classification": "residential",
+  "nature": "new",
+  "location_id": "676206b3abf29",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[6],\"number_of_buildings\":8,\"people_involved_ids\":[]}",
+  "entity_id": "cc79cbce-a6fb-4131-88ac-b7c8386988da",
+  "created_at": "2025-10-18 11:20:26",
+  "updated_at": "2025-10-18 11:20:26",
+  "archived_at": null
+}

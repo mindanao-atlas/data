@@ -1,0 +1,15 @@
+{
+  "title": "Manors Davao North",
+  "about": "A project in Davao City, Davao Region.",
+  "status": "proposed",
+  "type": "private",
+  "classification": "residential",
+  "nature": "new",
+  "location_id": "676206b3abf29",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[6],\"number_of_buildings\":10,\"people_involved_ids\":[]}",
+  "entity_id": "d3511aa5-cc07-456a-960a-77b464182c48",
+  "created_at": "2025-10-18 11:19:53",
+  "updated_at": "2025-10-18 11:19:53",
+  "archived_at": null
+}

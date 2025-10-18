@@ -1,0 +1,15 @@
+{
+  "title": "Camella Coho",
+  "about": "A project in Davao City, Davao Region.",
+  "status": "proposed",
+  "type": "private",
+  "classification": "residential",
+  "nature": "new",
+  "location_id": "676206b3abf29",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[14],\"number_of_buildings\":2,\"people_involved_ids\":[]}",
+  "entity_id": "5a0eaa3a-7289-45b7-8a1f-0260ecdabc29",
+  "created_at": "2025-10-18 11:18:19",
+  "updated_at": "2025-10-18 11:18:19",
+  "archived_at": null
+}

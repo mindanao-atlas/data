@@ -1,0 +1,15 @@
+{
+  "title": "Zambosur 4PH Project",
+  "about": "A project in Pagadian City, Zamboanga Del Sur, Zamboanga Peninsula.",
+  "status": "proposed",
+  "type": "public",
+  "classification": "residential",
+  "nature": "new",
+  "location_id": "676206b3abe7f",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[10],\"number_of_buildings\":21,\"people_involved_ids\":[]}",
+  "entity_id": "de76f0f9-5632-4f8e-9233-ca3f8d2ea59c",
+  "created_at": "2025-10-18 11:24:03",
+  "updated_at": "2025-10-18 11:24:03",
+  "archived_at": null
+}

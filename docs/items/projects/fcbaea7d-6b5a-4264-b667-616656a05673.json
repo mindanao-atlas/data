@@ -1,0 +1,15 @@
+{
+  "title": "Davao Global Township",
+  "about": "A project in Davao City, Davao Region.",
+  "status": "under_construction",
+  "type": "private",
+  "classification": "mixed_use",
+  "nature": "new",
+  "location_id": "676206b3abf29",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[],\"number_of_buildings\":1,\"total_land_area\":22,\"land_area_unit\":\"hectares\",\"people_involved_ids\":[]}",
+  "entity_id": "fcbaea7d-6b5a-4264-b667-616656a05673",
+  "created_at": "2025-10-18 11:22:09",
+  "updated_at": "2025-10-18 11:22:09",
+  "archived_at": null
+}

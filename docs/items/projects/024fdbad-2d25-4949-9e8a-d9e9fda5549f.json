@@ -1,0 +1,15 @@
+{
+  "title": "St. Luke's Medical Center at Azuela Cove",
+  "about": "A project in Davao City, Davao Region.",
+  "status": "proposed",
+  "type": "private",
+  "classification": "medical",
+  "nature": "new",
+  "location_id": "676206b3abf29",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[],\"people_involved_ids\":[]}",
+  "entity_id": "024fdbad-2d25-4949-9e8a-d9e9fda5549f",
+  "created_at": "2025-10-18 11:23:45",
+  "updated_at": "2025-10-18 11:23:45",
+  "archived_at": null
+}

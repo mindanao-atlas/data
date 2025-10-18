@@ -1,0 +1,15 @@
+{
+  "title": "The Acropolis",
+  "about": "A project in Davao City, Davao Region.",
+  "status": "proposed",
+  "type": "private",
+  "classification": "residential",
+  "nature": "new",
+  "location_id": "676206b3abf29",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[15],\"number_of_buildings\":3,\"people_involved_ids\":[]}",
+  "entity_id": "29664a75-7200-4937-a4ef-16daac86594f",
+  "created_at": "2025-10-18 11:18:52",
+  "updated_at": "2025-10-18 11:18:52",
+  "archived_at": null
+}

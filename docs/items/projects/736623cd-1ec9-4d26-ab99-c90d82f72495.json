@@ -1,0 +1,15 @@
+{
+  "title": "Surigao Medical Center Expansion",
+  "about": "A project in Surigao City, Surigao Del Norte, CARAGA.",
+  "status": "proposed",
+  "type": "private",
+  "classification": "medical",
+  "nature": "new",
+  "location_id": "676206b3ac010",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[7],\"people_involved_ids\":[]}",
+  "entity_id": "736623cd-1ec9-4d26-ab99-c90d82f72495",
+  "created_at": "2025-10-18 11:17:49",
+  "updated_at": "2025-10-18 11:17:49",
+  "archived_at": null
+}

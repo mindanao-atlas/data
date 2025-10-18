@@ -1,0 +1,15 @@
+{
+  "title": "Landers Superstore",
+  "about": "A project in Cagayan De Oro City, Misamis Oriental, Northern Mindanao.",
+  "status": "proposed",
+  "type": "private",
+  "classification": "commercial",
+  "nature": "new",
+  "location_id": "676206b3abe9d",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[],\"people_involved_ids\":[]}",
+  "entity_id": "ff1d08ae-64db-46fc-ace2-51a4b520b213",
+  "created_at": "2025-10-18 11:13:27",
+  "updated_at": "2025-10-18 11:13:27",
+  "archived_at": null
+}

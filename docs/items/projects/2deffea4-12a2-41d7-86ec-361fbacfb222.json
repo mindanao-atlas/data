@@ -1,0 +1,15 @@
+{
+  "title": "Belmonde Towers",
+  "about": "A project in Cagayan De Oro City, Misamis Oriental, Northern Mindanao.",
+  "status": "planning",
+  "type": "private",
+  "classification": "residential",
+  "nature": "new",
+  "location_id": "676206b3abe9d",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[12,7],\"number_of_buildings\":2,\"people_involved_ids\":[]}",
+  "entity_id": "2deffea4-12a2-41d7-86ec-361fbacfb222",
+  "created_at": "2025-10-18 11:15:24",
+  "updated_at": "2025-10-18 11:15:24",
+  "archived_at": null
+}

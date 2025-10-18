@@ -1,0 +1,15 @@
+{
+  "title": "El Vinta Residences",
+  "about": "A project in Zamboanga City, Zamboanga Peninsula.",
+  "status": "proposed",
+  "type": "private",
+  "classification": "residential",
+  "nature": "new",
+  "location_id": "676206b3abe8e",
+  "featured_image": null,
+  "details": "{\"number_of_floors\":[14,12],\"number_of_buildings\":8,\"people_involved_ids\":[]}",
+  "entity_id": "acd093f1-0ae2-47a2-8cf6-e30f70952609",
+  "created_at": "2025-10-18 11:13:36",
+  "updated_at": "2025-10-18 11:13:36",
+  "archived_at": null
+}
